@@ -1,0 +1,34 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider files
+.idea/
+
+# NuGet packages
+packages/
+*.nupkg
+project.lock.json
+
+# Logs
+*.log
+
+# Generated files
+*.g.cs
+*.dll
+*.pdb
+*.exe
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive files
+appsettings.json
+secrets.json

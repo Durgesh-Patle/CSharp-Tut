@@ -1,0 +1,35 @@
+Inheritance in C# :- a fundamental concept in object-oriented programming (OOP) that allows a class to inherit members from another class.
+
+or 
+
+Inheritance C# programming ka ek object-oriented programming (OOP) feature hai, jo ek class (base class) ke properties aur methods ko dusri class (derived class) me use karne ki permission deta hai. Iska main purpose code reusability aur ek class hierarchy create karna hai.
+
+Key Concepts of Inheritance:
+
+Base Class (Parent Class):
+Wo class jiski properties aur methods ko inherit kiya jata hai.
+Example: Animal class.
+
+Derived Class (Child Class):
+Wo class jo base class ki properties aur methods ko inherit karti hai.
+Example: Dog class, jo Animal class ka child hai.
+
+Access Modifiers:
+public: Derived class me fully accessible.
+protected: Sirf derived class aur base class ke andar accessible.
+private: Sirf base class ke andar accessible, derived class me nahi.
+
+
+: (Colon) Symbol:
+Inheritance define karne ke liye colon (:) ka use hota hai. 
+
+
+Types of Inheritance in C#:
+Single Inheritance: Ek base class aur ek derived class.
+
+Multilevel Inheritance: Ek derived class, jo khud ek base class ke derived class hai.
+
+Hierarchical Inheritance: Ek base class ke multiple derived classes.
+
+Multiple Inheritance: C# me directly support nahi hai (interfaces ka use kar ke achieve hota hai).
+
