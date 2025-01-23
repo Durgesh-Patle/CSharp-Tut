@@ -1,0 +1,15 @@
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/Enum.AssemblyInfoInputs.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/Enum.AssemblyInfo.cs
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/Enum.csproj.CoreCompileInputs.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/Enum.sourcelink.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/bin/Debug/net8.0/Enum
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/bin/Debug/net8.0/Enum.deps.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/bin/Debug/net8.0/Enum.runtimeconfig.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/bin/Debug/net8.0/Enum.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/bin/Debug/net8.0/Enum.pdb
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/Enum.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/refint/Enum.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/Enum.pdb
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/Enum.genruntimeconfig.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Enum/obj/Debug/net8.0/ref/Enum.dll
