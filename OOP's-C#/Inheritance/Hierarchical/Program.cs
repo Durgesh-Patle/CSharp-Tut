@@ -1,4 +1,5 @@
-﻿// Base Class
+﻿using System;
+// Base Class
 public class Base
 {
     public string name;
