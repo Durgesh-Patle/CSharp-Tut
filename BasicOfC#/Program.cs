@@ -162,7 +162,7 @@ namespace HelloWorld
       string str = "Hello i am C#";
 
       // find Strings Length.
-      // Console.WriteLine("String length = "+ str.Length);
+      Console.WriteLine("String length = "+ str.Length);
 
       // Substring.
       // string str1 = str.Substring(2);

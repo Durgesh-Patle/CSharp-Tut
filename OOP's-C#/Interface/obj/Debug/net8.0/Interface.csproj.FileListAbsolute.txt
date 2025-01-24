@@ -1,0 +1,15 @@
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/bin/Debug/net8.0/Interface
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/bin/Debug/net8.0/Interface.deps.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/bin/Debug/net8.0/Interface.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/bin/Debug/net8.0/Interface.pdb
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/Interface.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/refint/Interface.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/Interface.pdb
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Interface/obj/Debug/net8.0/ref/Interface.dll
