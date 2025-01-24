@@ -1,0 +1,15 @@
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/bin/Debug/net8.0/Polymorphism
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/bin/Debug/net8.0/Polymorphism.deps.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/bin/Debug/net8.0/Polymorphism.runtimeconfig.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/bin/Debug/net8.0/Polymorphism.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/bin/Debug/net8.0/Polymorphism.pdb
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.csproj.CoreCompileInputs.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.sourcelink.json
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/refint/Polymorphism.dll
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.pdb
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.genruntimeconfig.cache
+/home/durgesh/Desktop/C#-Tut/OOP's-C#/Polymorphism/Polymorphism/obj/Debug/net8.0/ref/Polymorphism.dll
